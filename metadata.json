@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VirtuelVision - AR Art & Heritage Platform",
+  "description": "A sophisticated AR drawing and social platform that allows artists to anchor digital art to real-world locations, protect heritage sites, and monetize their creativity.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
